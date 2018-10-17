@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:0 group-title="XXX: Adult",XXX: 1TV ODESSA 
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: 7 KANAL 
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: AKAKU 53 HAWAII 
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: AKAKU 54 HAWAII 
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: AKAKU 55 HAWAII 
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: ANNABELLE 
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: BABESTATION 
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: BABESTATION XTREME 
+http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_/smil:2346-mbr.smil/playlist.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: CLARO ADULTO 
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2078.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: ES LA SEXTA 
+http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/22165.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: FOR ADULT 
+http://iptv.efsane365.com:80/live/koralp/123456/10143.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: HIMLEN TV7 
+http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: JASMIN TV 
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: JASMIN TV 18 
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: LA SEXTA HD
+http://nasaiptv.com:8000/live/Scott/Scott123/20302.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: LA SEXTA (1+) HD
+http://62.210.72.137:8080/live/arsenal14/arsenal14/702.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: LA SEXTA 
+http://nasaiptv.com:8000/live/Scott/Scott123/20301.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: LA SEXTA (1+) 
+http://sutverduz.com:8080/live/ada143/143341h/11244.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: LA SEXTATA 
+http://nadorone.no-ip.org:25461/live/mtg/skype/6223.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: MEIDEN VAN HOLLAND 
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2073.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: PENTHOUSE 
+http://iptv.efsane365.com:80/live/koralp/123456/17258.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: PINK EROTIC 
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2071.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: PINK EROTIK 5 
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2067.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: PINK EROTIK 7 
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2065.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: PORN 
+http://87.246.0.130:88/m3u8/exoticatv.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: PORN (1+) 
+http://87.246.0.130:88/m3u8/centoxcento.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: REPORT-TV 
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: RTV 2 VOJVODINA 
+http://ipsatpro.com:8080/live/farouk/12345/3534.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: RTV 2 VOJVODINA (1+) 
+http://212.8.248.213:8080/live/farouk/12345/3534.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: RTV 2 VOJVODINA (2+) 
+http://ipsatpro.biz:8080/live/dBy0jR8FBJ/jyyPBiRn5e/3534.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: RTV VOJVODINA 
+http://ipsatpro.com:8080/live/farouk/12345/3533.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: RTV VOJVODINA (1+) 
+http://212.8.248.213:8080/live/farouk/12345/3533.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: RTV VOJVODINA (2+) 
+http://ipsatpro.biz:8080/live/dBy0jR8FBJ/jyyPBiRn5e/3533.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: STB ODESSA 
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/stvod/stvod/playlist.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: THE ERIC ANDRE SHOW 
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: TIM AND ERIC 
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: TRETIY CIFROVOY 
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: UA-TV 
+http://vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: ULTIMA TV 
+http://vod1.kronopress.com:1935/ultimatv_live/4B96-D3C4-CD06-4CFE/chunklist_w1315656524.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: VISIT-X TV 
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: VOD 202 
+http://iptv.efsane365.com:80/live/koralp/123456/25322.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: VOD 204 
+http://iptv.efsane365.com:80/live/koralp/123456/25321.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: VOD 205 
+http://iptv.efsane365.com:80/live/koralp/123456/25320.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: VOD 207 
+http://iptv.efsane365.com:80/live/koralp/123456/25318.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: VOD 208 
+http://iptv.efsane365.com:80/live/koralp/123456/25317.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: VOD 212 
+http://iptv.efsane365.com:80/live/koralp/123456/25316.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: WISH UPON 2017 
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XPANDED TV 
+https://vod2t.xxxpanded.com/x3tv/index_wlan.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XPANDED TV 2 
+https://vod2t.xxxpanded.com/x3tv2/index_wlan.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HD
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/626.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (1+) HD
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/629.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (2+) HD
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/1569.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (3+) HD
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7391.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (4+) HD
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/388.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX 
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/623.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (1+) 
+http://eirking.pro:8080/live/exchange/sGFHK47UC6/631.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (2+) 
+http://iptv.efsane365.com:80/live/koralp/123456/17252.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (3+) 
+http://iptv.efsane365.com:80/live/koralp/123456/17253.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (4+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/3842.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (5+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/3845.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (6+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/3847.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (7+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/3848.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (8+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/3862.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (9+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/5423.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (10+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7395.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (11+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7724.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (12+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7729.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (13+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7731.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (14+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7732.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX (15+) 
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/10317.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX BABESTATION CLUB 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/387.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB 1 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5817.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB 2 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5816.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB 3 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5815.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB 6 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5812.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB 7 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5811.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB 8 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5810.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB 9 HD
+http://iptv.efsane365.com:80/live/koralp/123456/5809.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB1 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/409.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB10 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/400.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB13 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/397.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB14 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/396.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB3 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/407.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB4 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/406.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB5 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/405.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB6 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/404.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB8 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/402.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX HOT CLUB9 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/401.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX NUBILES CASTING 
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2059.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX PRIMAFILA HOT CLUB 4 HD
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/395.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX PRIMAFILA HOT CLUB 5 HD
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/394.m3u8
+#EXTINF:0 group-title="XXX: Adult",XXX: XXX TGIRLS 
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/391.m3u8
