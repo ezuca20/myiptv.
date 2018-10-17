@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:0 group-title="UK: United Kingdom",UK: BBC 1 HD
+http://nasaiptv.com:8000/live/Scott/Scott123/20026.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BBC 1 (1+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15741.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BBC 1 (2+) HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15742.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BBC 1 
+http://nasaiptv.com:8000/live/Scott/Scott123/20025.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BBC 1 (1+) 
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6659.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BBC 2 HD
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15740.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BBC 2 
+http://nasaiptv.com:8000/live/Scott/Scott123/20027.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BBC 2 (1+) 
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6658.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15468.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 1 HD
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15504.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 1 
+http://62.210.72.137:8080/live/arsenal14/arsenal14/124.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 1 (1+) 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15469.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 1 (2+) 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/124.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 4 HD
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15439.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 4 (1+) HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4111.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 4 
+http://nasaiptv.com:8000/live/Scott/Scott123/20055.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 4 (1+) 
+http://62.210.72.137:8080/live/arsenal14/arsenal14/118.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 4 (2+) 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/118.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 5 HD
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15467.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 5 (1+) HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4112.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 5 
+http://nasaiptv.com:8000/live/Scott/Scott123/20056.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 5 (1+) 
+http://62.210.72.137:8080/live/arsenal14/arsenal14/117.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 5 (2+) 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/117.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 2 HD
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15445.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 2 
+http://62.210.72.137:8080/live/arsenal14/arsenal14/123.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 2 (1+) 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15470.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 2 (2+) 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/123.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 3 HD
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15446.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 3 
+http://62.210.72.137:8080/live/arsenal14/arsenal14/122.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 3 (1+) 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15471.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 3 (2+) 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/122.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 4 
+http://62.210.72.137:8080/live/arsenal14/arsenal14/121.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 4 (1+) 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15472.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ITV 4 (2+) 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/121.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: 4SEVEN 
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4119.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: 5 STAR 
+http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/15432.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: 5 STAR (1+) 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/313.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: 5STAR 
+http://nasaiptv.com:8000/live/Scott/Scott123/20020.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: 5USA 
+http://nasaiptv.com:8000/live/Scott/Scott123/20021.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AL HIWAR 
+http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w1138816254_b1264000.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AL-JAZEERA 
+http://nasaiptv.com:8000/live/Scott/Scott123/982.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AL-JAZEERA (1+) 
+http://sutverduz.com:8080/live/ada143/143341h/10674.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ALB B HD
+http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/31459.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ALB TV 
+http://212.8.248.213:8080/live/farouk/12345/1387.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ALIBI HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4092.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ALIBI 
+http://nasaiptv.com:8000/live/Scott/Scott123/20022.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ALIBI (1+) 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15435.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ANAIS 18 HD
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AND FLIX 
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AND FLIX (1+) 
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ANIMAL PLANET HD
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15490.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ANIMAL PLANET (1+) HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4093.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ARY DIGITAL 
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ASIA TV UPDATED 
+http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BET 
+http://nasaiptv.com:8000/live/Scott/Scott123/20030.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX HITS 1 
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE 1 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/104.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX OFFICE 3D 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/103.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: C ITV 
+http://nasaiptv.com:8000/live/Scott/Scott123/20065.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CATCH 2 
+http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS ACTION 
+http://nasaiptv.com:8000/live/Scott/Scott123/20051.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS ACTION (1+) 
+http://62.210.72.137:8080/live/arsenal14/arsenal14/316.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS ACTION (2+) 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15495.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS ACTION (3+) 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/316.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS ACTION (4+) 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/318.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS DRAMA 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15496.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS REALITY 
+http://nasaiptv.com:8000/live/Scott/Scott123/20052.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS REALITY (1+) 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15457.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS REALITY (2+) 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/116.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CBS REALITY (3+) 
+http://62.210.72.137:8080/live/live:mtg_2406_1/live:mtg_2406_1/317.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CELTIC TV LIVE DURING SPL 
+http://nasaiptv.com:8000/live/Scott/Scott123/20053.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHALLANGE 1 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/17005.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL 5 STAR 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/17004.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL AKA 
+http://nasaiptv.com:8000/live/Scott/Scott123/20057.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL AKA (1+) 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/17003.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHANNEL AKA (2+) 
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4109.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHART SHOW HITS 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/17002.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHART SHOW TV 
+http://nasaiptv.com:8000/live/Scott/Scott123/20058.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CITV 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/17001.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CLUB TV 
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: COLORS 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15497.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: COLOURS 
+http://nasaiptv.com:8000/live/Scott/Scott123/21165.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDY CENTRAL 
+http://nasaiptv.com:8000/live/Scott/Scott123/20063.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDY CENTRAL (1+) 
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4113.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDY CENTRAL 3 
+http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/573/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDY CENTRAL EXTRA 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/16999.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDY CENTRAL EXTRA (1+) 
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4114.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: COMEDYXTRA 
+http://nasaiptv.com:8000/live/Scott/Scott123/20062.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CRIME & INVESTIGATION 
+http://mrriptv.xyz:25461/live/Twisted/30/17086.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: DAVE 
+http://nasaiptv.com:8000/live/Scott/Scott123/20066.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: DAVE (1+) 
+http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15440.m3u8
