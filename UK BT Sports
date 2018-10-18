@@ -1,14 +1,8 @@
 #EXTINF
 #EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 HD
 http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6649.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 (1+) HD
-http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/16979.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 
-http://nasaiptv.com:8000/live/Scott/Scott123/20038.m3u8
 #EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 (1+) 
 http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/16980.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 HD
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/66753.m3u8
 #EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 (1+) HD
 http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/16977.m3u8
 #EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 
@@ -47,10 +41,6 @@ http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6640.m3u8
 http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/16971.m3u8
 #EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT EXTRA 3 
 http://nasaiptv.com:8000/live/Scott/Scott123/20043.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT EXTRA 3 (1+) 
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7918.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT EXTRA 3 (2+) 
-http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/16970.m3u8
 #EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT EXTRA 4 
 http://nasaiptv.com:8000/live/Scott/Scott123/20044.m3u8
 #EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT EXTRA 4 (1+) 
